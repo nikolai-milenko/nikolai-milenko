@@ -1,86 +1,94 @@
 <h1 align="center">Hi, I'm Nikolai 👋</h1>
 
 <p align="center">
-  Сurrently living in 🇩🇪 Fulda <br>
-  🎓 Applied Computer Science student at Hochschule Fulda <br>
-  🛠 Junior backend developer, building real projects and leveling up every day <br>
+  🇩🇪 Fulda · 3rd‑semester B.Sc. Applied Computer Science @ Hochschule Fulda<br>
+  🛠️ Backend (Java/Spring) — clean architecture, tests, CI/CD <br>
+  🛠️ ML/DL
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 About
 
-- 📚 Applied Informatics student in Germany (average grade: **1.5** in first semester)
-- 💡 Focused on backend development and clean architecture
-- 🧩 Currently improving **Studienplaner** — backend planner for university students
+- 📚 Current GPA: **1.4**
+- 💡 Focus: **Java 21 / Spring Boot · Databases (PostgreSQL, NoSQL)**, rigorous architecture, reliable pipelines, currently expanding into **Machine Learning / Deep Learning**
+- 🧩 Teaming on **MassiveMarketManager** — joint trading bot project built with **ML/AI** for DeFi markets 
+- 🚀 Improving **BewerbungBuddy** — full-stack app with Spring Boot + OpenAI API for CV analysis  
 - 🏆 Practicing algorithms on Codeforces: [Profile](https://codeforces.com/profile/NII00K)
 - 🌍 Languages: 🇷🇺 Russian · 🇩🇪 German (C1) · 🇬🇧 English (B2) · 🇳🇴 Norwegian (beginner)
-
 
 ---
 
 ### 🗂️ Projects
 
-#### 🗒️ [Studienplaner](https://github.com/nikolai-milenko/Studienplaner)  
-> Backend MVP for student schedule management. Built with Java and Spring Boot.
-- MVP ready ✅
-- CI/CD configured ✅
-- Controller tests in progress
-- Next steps: JWT authentication, expand test coverage, deployment improvements
+#### 💼 [MassiveMarketManager](https://github.com/MassiveMarketManager/MassiveMarketManager-MMM)
+Collaborative **trading bot for DeFi markets** powered by **ML/AI** and smart contract execution.
 
-#### 🕷️ [citis_proj](https://github.com/nikolai-milenko/citis_proj)  
-> Web scraper for e-commerce platforms, primarily built with **Selenium**.  
-- Data extraction from multiple sources
-- API-ready responses for external use
+Stack: **Java 21 • Spring Boot • Maven • MapStruct • Lombok • JPA/Hibernate • PostgreSQL • Flyway • Docker • GitHub Actions • GHCR**
 
-#### 🧩 [project_tracker_ck_bmstu](https://github.com/nikolai-milenko/project_tracker_ck_bmstu)  
-> Educational project tracker system built fully on **Django**.  
-- Clean CRUD operations
-- API integration and basic task management
+- Modular architecture with strict layering (API → Service → Persistence)
+- Automated CI/CD pipelines (build/test, containerized delivery)
+- Road ahead: Basic Backend structure, frontend draft with **``React``**
 
 ---
 
-### 🛠 Tech Stack
+<p align="center">
+  <a href="https://github.com/nikolai-milenko/BewerbungBuddy" target="_blank" rel="noopener">
+    <img src="./assets/bb_logo.png" alt="BewerbungBuddy logo" width="120" />
+  </a>
+</p>
 
-**Languages & Frameworks:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+#### 📝 [BewerbungBuddy](https://github.com/nikolai-milenko/BewerbungBuddy) (bewerbungbuddy.de)
+AI-powered career assistant that not only parses CVs and drafts tailored cover letters, but also provides feedback on structure, style, and consistency, as well as highlights missing skills.
+
+Stack: **Java 21 • Spring Boot • JPA/PostgreSQL • MapStruct • Docker Compose • GitLab CI/CD • OpenAI API • Bootstrap**
+
+- Multi‑module repo (backend + static frontend)
+- Strongly typed domain model (CVAnalysis, DTOs, mappers)
+- CI/CD and containerized deploy
+
+---
+
+#### 📚 Studienplaner
+Student planner backend (MVP) with Spring Boot.
+
+---
+
+### 🛠️ Tech
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Tools & Technologies:**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Tools & Platforms**
 
-**Databases:**
+![Maven](https://img.shields.io/badge/Maven-CC0000?style=for-the-badge&logo=apache-maven&logoColor=white)
+![MapStruct](https://img.shields.io/badge/MapStruct-1B1F23?style=for-the-badge)
+![Lombok](https://img.shields.io/badge/Lombok-1B1F23?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Also worked with:**
-`Qt` · `PyQt5` · `JavaFX` · `Assembler (MASM, NASM)`
-
-
----
-
-### 🧭 Learning Roadmap
-
-- ✅ Spring Boot fundamentals (Controllers, Services, Repositories)
-- ✅ CI/CD with GitHub Actions
-- ✅ Docker basics for containerization
-- 🧩 Controller testing
-- 🧩 JWT authentication
-- 🧩 Database migrations (Flyway / Liquibase)
+**Also used:** `Qt` · `PyQt5` · `JavaFX` · `Assembler (MASM, NASM)`
 
 ---
 
-### 📊 GitHub Stats
+### 🔭 Currently learning
+- PyTorch & transformer‑based models  
+- MLOps (model versioning, monitoring, reproducible pipelines)  
+- Event‑driven architectures & Kafka
 
-![Nikolai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolai-milenko&show_icons=true&theme=dark&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nikolai-milenko&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### 📌 Open to
+- Collaboration on backend / ML projects  
+- Internships or part‑time roles in backend, data engineering, or ML  
+
 
 ### 🏆 Trophies
 
@@ -88,10 +96,6 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuldaer_grind)
-
----
-
-💡 *"Building things, learning fast, dreaming big."*
