@@ -21,6 +21,12 @@
 
 ### 🗂️ Projects
 
+<p align="center">
+  <a href="https://github.com/MassiveMarketManager/MassiveMarketManager-MMM" target="_blank" rel="noopener">
+    <img src="./assets/mm_logo.png" alt="MMM logo" width="150" />
+  </a>
+</p>
+
 #### 💼 [MassiveMarketManager](https://github.com/MassiveMarketManager/MassiveMarketManager-MMM)
 Collaborative **trading bot for DeFi markets** powered by **ML/AI** and smart contract execution.
 
@@ -34,7 +40,7 @@ Stack: **Java 21 • Spring Boot • Maven • MapStruct • Lombok • JPA/Hib
 
 <p align="center">
   <a href="https://github.com/nikolai-milenko/BewerbungBuddy" target="_blank" rel="noopener">
-    <img src="./assets/bb_logo.png" alt="BewerbungBuddy logo" width="120" />
+    <img src="./assets/bb_logo.png" alt="BewerbungBuddy logo" width="150" />
   </a>
 </p>
 
