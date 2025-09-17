@@ -95,6 +95,14 @@ Student planner backend (MVP) with Spring Boot.
 - Collaboration on backend / ML projects  
 - Internships or part‑time roles in backend, data engineering, or ML  
 
+---
+
+### 📊 GitHub Stats
+
+![Nikolai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolai-milenko&show_icons=true&theme=dark&hide_border=true)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikolai-milenko&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 🏆 Trophies
 
