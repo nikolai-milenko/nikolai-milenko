@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikolai 👋</h1>
 
 <p align="center">
-  🇩🇪 Fulda · 3rd‑semester B.Sc. Applied Computer Science @ Hochschule Fulda<br>
+  🇩🇪 Fulda · 5th‑semester B.Sc. Applied Computer Science @ Hochschule Fulda<br>
   🛠️ Backend (Java/Spring) — clean architecture, tests, CI/CD <br>
   🛠️ ML/DL
 </p>
@@ -11,11 +11,11 @@
 ### 🚀 About
 
 - 📚 Current GPA: **1.4**
-- 💡 Focus: **Java 21 / Spring Boot · Databases (PostgreSQL, NoSQL)**, rigorous architecture, reliable pipelines, currently expanding into **Machine Learning / Deep Learning**
+- 💡 Focus: **Java 25 / Spring Boot · Databases (PostgreSQL, NoSQL)**, rigorous architecture, reliable pipelines, currently expanding into **Machine Learning / Deep Learning**
 - 🧩 Teaming on **MassiveMarketManager** — joint trading bot project built with **ML/AI** for DeFi markets 
 - 🚀 Improving **BewerbungBuddy** — full-stack app with Spring Boot + OpenAI API for CV analysis  
 - 🏆 Practicing algorithms on Codeforces: [Profile](https://codeforces.com/profile/NII00K)
-- 🌍 Languages: 🇷🇺 Russian · 🇩🇪 German (C1) · 🇬🇧 English (B2) · 🇳🇴 Norwegian (beginner)
+- 🌍 Languages: 🇷🇺 Russian · 🇩🇪 German (C1) · 🇬🇧 English (C1) · 🇳🇴 Norwegian (beginner)
 
 ---
 
@@ -30,7 +30,7 @@
 #### 💼 [MassiveMarketManager](https://github.com/MassiveMarketManager/MassiveMarketManager-MMM)
 Collaborative **trading bot for DeFi markets** powered by **ML/AI** and smart contract execution.
 
-Stack: **Java 21 • Spring Boot • Maven • MapStruct • Lombok • JPA/Hibernate • PostgreSQL • Flyway • Docker • GitHub Actions • GHCR**
+Stack: **Java 25 • Spring Boot • Maven • MapStruct • Lombok • JPA/Hibernate • PostgreSQL • Flyway • Docker • GitHub Actions • GHCR**
 
 - Modular architecture with strict layering (API → Service → Persistence)
 - Automated CI/CD pipelines (build/test, containerized delivery)
