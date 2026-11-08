@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/MassiveMarketManager/MassiveMarketManager-MMM">
-    <img src="./assets/mm_logo.png" alt="MassiveMarketManager logo" width="150" />
+    <img src="./assets/mmm_logo_new.jpg" alt="MassiveMarketManager logo" width="150" />
   </a>
 </p>
 
